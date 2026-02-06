@@ -74,7 +74,7 @@ const TicTacToe = () => {
   return (
     <div className="container">
       <h1 className="title" ref={titleRef}>
-        Tic-Tac-Toe game In <span> React</span>
+        Tic-Tac-Toe game 
       </h1>
 
       <div className="board">
